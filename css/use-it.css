@@ -1,0 +1,17 @@
+#use-it > section {
+    box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
+}
+
+#use-it > section:nth-child(odd) {
+	background-color: #f8f8f8;
+}
+
+#use-it li {
+	font-size: 18px;
+	font-weight: 300;
+	margin: 6px 0px;
+}
+
+#use-it li i {
+	margin-right: 10px;
+}

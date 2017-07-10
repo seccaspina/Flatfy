@@ -1,0 +1,32 @@
+#screenshot .images > div > span {
+	height: 568px;
+	background-size: cover;
+	border-radius: 6px;
+	display: block;
+}
+
+#uno {
+	background-image: url(../assets/1.png);
+}
+
+#dos {
+	background-image: url(../assets/2.png);
+}
+#tres {
+	background-image: url(../assets/3.png);
+}
+
+#screenshot .unslider-nav li {
+	background-color: #1abc9c;
+	height: 15px;
+	width: 15px;
+	border-radius: 100%;
+}
+
+#screenshot .unslider-nav li.unslider-active {
+	opacity: 0.5;
+}
+
+#screenshot nav {
+	margin-top: 20px;
+}

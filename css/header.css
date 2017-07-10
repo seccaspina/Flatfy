@@ -1,0 +1,64 @@
+header {
+	background-image: url(../assets/header.jpg);
+	height: calc(100vh - 73px);
+	background-position: center;
+	background-repeat: no-repeat; 
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	position: relative;
+}  
+
+header h3 {
+	font-weight: 300;
+	margin-top: 30px;
+}
+
+
+header div > nav .btn-md {
+	font-size: 14px;
+	font-weight: 400;
+	letter-spacing: 1.5px;
+	text-align: center;
+	padding: 12px 18px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+	border-radius: 6px;	
+	margin-left: 5px;
+	background-color: transparent;
+	color: white;
+	border: 1px solid white;
+	box-shadow: none;
+}
+
+header div > nav .btn-md:hover {
+	background-color: transparent;
+	color: white;
+	border: 1px solid white;
+}
+
+#twitter {
+	background-color: #4A90BE;
+	border: 1px solid #4A90BE;
+}
+
+#twitter:hover {
+	background-color: transparent;
+	border: 1px solid #4A90BE;
+	color: #4A90BE;
+}
+
+header div > button {
+	background-color: transparent;
+	border: 0px;
+
+}
+
+#circle { 
+	position: absolute;
+	bottom: 8%;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	width: 50px;
+}

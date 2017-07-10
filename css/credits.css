@@ -1,0 +1,46 @@
+#credits {
+	background-color: #f8f8f8
+}
+#credits .row {
+	margin-bottom: 30px;
+}
+
+#credits .icon {
+	text-align: center;
+	color: #034b81;
+	background-color: #f0f1ec;
+	border-radius: 100%;
+	height: 150px;
+	width: 150px;
+	position: relative;
+	margin: 0 auto;
+	transition: color 0.3s, background-color 0.3s, transform 0.8s;
+
+}
+
+#credits .icon:hover {
+	-ms-transform: rotate(360deg); /* IE 9 */
+    -webkit-transform: rotate(360deg); /* Safari */
+    transform: rotate(360deg);
+    background-color: #1abc9c;
+    color: white;
+}
+
+#credits .icon i {
+	width: auto;
+	margin: 0 auto;
+	right: 0;
+	left: 0;
+	font-size: 64px;
+}
+
+#credits h3 {
+	margin-top: 30px;
+	margin-bottom: 0px;
+}
+
+#credits p {
+	font-size: 16px;
+	font-weight: 400;
+	margin-top: 5px;
+}

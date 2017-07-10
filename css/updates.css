@@ -1,0 +1,21 @@
+#updates {
+	background-color: #34495e ;
+	color: white;
+	padding: 90px 0px ;
+}
+
+#updates hgroup {
+	margin-bottom: 60px;
+}
+
+#updates .btn-lg {
+	background-color: #1abc9c;
+	border: 1px solid #1abc9c;
+	color: white;
+	box-shadow: none;
+	border-radius: 0px;
+	font-size: 24px;
+	font-weight: 700;
+	padding: 16px 110px;
+}	
+

@@ -1,0 +1,28 @@
+#download {
+	background-position: center;
+	background-image: url(../assets/download.jpg); 
+	background-size: cover;
+	padding: 133px 0px;
+	text-align: center;
+	color: white;
+}
+
+#download h2 {
+	margin-bottom: 30px;
+}
+
+#pay {
+	background-color: #324c63;
+	border: 1px solid #324c63;
+	box-shadow: none;
+	font-family: Open Sans, Arial;
+	font-size: 24px;
+	color: white;
+	padding: 8px 24px 7px;
+
+}
+
+#pay:hover {
+	background-color: #22364B;
+	border: 1px solid #22364B;
+}
